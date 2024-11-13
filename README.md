@@ -1,16 +1,16 @@
-# new_money
+MoneyMan
+MoneyMan is a budgeting app primarily designed for students, enabling them to track spending, manage budgets, and cultivate better financial habits. Built using Flutter, the app provides a seamless and user-friendly experience for monitoring finances.
 
-A new Flutter project.
+Features
+Expense Tracking: Log daily expenses to stay on top of your spending.
+Budget Management: Set budgets and receive insights into how well you adhere to them.
+Savings Goals: Plan and track your savings for future financial stability.
+User-Friendly Interface: Designed for ease of use, especially for students.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Prerequisites
+Before running the app, ensure you have the following installed:
+Flutter SDK: Install Flutter
+Dart SDK: Included with Flutter.
+Xcode: Required for iOS app development (macOS only).
+iPhone Simulator: iPhone 14 is recommended for the best console experience.
+Device Requirements: macOS for development, iOS 16.0 or later for the simulator.
